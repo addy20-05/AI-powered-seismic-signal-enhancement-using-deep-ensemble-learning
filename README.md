@@ -1,0 +1,2 @@
+# AI-powered-seismic-signal-enhancement-using-deep-ensemble-learning
+A hybrid deep learning framework integrating DnCNN, U-Net, Noise2Noise, and MLP denoisers with Continuous Wavelet Transform and CNN-based classification for intelligent seismic noise reduction, signal reconstruction, and event detection. The hybrid approach uses adaptive feature weighting and fusion to enhance seismic analysis performance.
